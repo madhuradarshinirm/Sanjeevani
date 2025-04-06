@@ -92,11 +92,11 @@ Mobile Health Apps Integration
 Sahana G: [🧷LinkedIn](http://www.linkedin.com/in/sahana-g-912979326)
 <br> HealthTech Enthusiast • Project Lead
 
-Yashashwini R:  [🧷LinkedIn](https://www.linkedin.com/in/yashaswini-r-39a127325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-<br> AI Engineer • AI/ML Developer
-
 Madhuradarshini : [🧷LinkedIn](http://www.linkedin.com/in/madhuradarshinirm)
 <br> Frontend Developer • OCR & Image Processing
+
+Yashashwini R:  [🧷LinkedIn](https://www.linkedin.com/in/yashaswini-r-39a127325)
+<br> AI Engineer • AI/ML Developer
 
 Armaan Samir Jena:  [🧷LinkedIn](http://www.linkedin.com/in/jena-armaan)
 <br> Backend Developer • Cloud Integrator
