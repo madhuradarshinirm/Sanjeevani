@@ -89,31 +89,31 @@ Mobile Health Apps Integration
 
 👨‍💻 Developed By
 
-Sahana G: https://www.linkedin.com/in/sahana-g-912979326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Sahana G: [🧷LinkedIn](http://www.linkedin.com/in/sahana-g-912979326)
 <br> HealthTech Enthusiast • Project Lead
 
-Yashashwini R: https://www.linkedin.com/in/yashaswini-r-39a127325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Yashashwini R:  [🧷LinkedIn](https://www.linkedin.com/in/yashaswini-r-39a127325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 <br> AI Engineer • AI/ML Developer
 
-Madhuradarshini : 
+Madhuradarshini : [🧷LinkedIn](http://www.linkedin.com/in/madhuradarshinirm)
 <br> Frontend Developer • OCR & Image Processing
 
-Armaan Samir Jena: www.linkedin.com/in/jena-armaan
+Armaan Samir Jena:  [🧷LinkedIn](http://www.linkedin.com/in/jena-armaan)
 <br> Backend Developer • Cloud Integrator
 
 
 
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.<br>
 See the LICENSE file for details.
 
 
 🙏 Acknowledgements
-NIH Shenzhen Dataset
+NIH Shenzhen Dataset<br>
 
-ISIC Skin Cancer Dataset
+ISIC Skin Cancer Dataset<br>
 
-BraTS Brain Tumor Dataset
+BraTS Brain Tumor Dataset<br>
 
-TensorFlow, Google Cloud, Tesseract OCR
+TensorFlow, Google Cloud, Tesseract OCR<br>
 ***
