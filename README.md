@@ -69,15 +69,17 @@ pip install -r requirements.txt
 python backend/app.py  # Or use Streamlit / Flask depending on your frontend
 ```
 
+<br><br>
+🧪 Sample Results<br>
 
-***🧪 Sample Results<br>
 Input Image	Output Diagnosis<br>
 Chest X-ray	✅ Tuberculosis Detected<br>
 Brain MRI	⚠️ Possible Tumor Region<br>
 Skin Lesion	✅ Likely Benign (Melanoma)<br>
 Blood Test (OCR Extracted) 🔍 Elevated WBC Count<br>
 AND many more......
-***
+
+<br><br>
 💡 Use Cases
 Rural Telemedicine & Diagnosis
 
@@ -85,7 +87,7 @@ Public Health Screening Programs
 
 AI Assistance in Primary Healthcare
 
-Mobile Health Apps Integration
+Mobile Health Apps Integration<br><br>
 
 👨‍💻 Developed By
 
