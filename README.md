@@ -70,14 +70,14 @@ python backend/app.py  # Or use Streamlit / Flask depending on your frontend
 ```
 
 
-**🧪 Sample Results
-Input Image	Output Diagnosis
-Chest X-ray	✅ Tuberculosis Detected
-Brain MRI	⚠️ Possible Tumor Region
-Skin Lesion	✅ Likely Benign (Melanoma)
-Blood Test (OCR Extracted)	🔍 Elevated WBC Count
+***🧪 Sample Results<br>
+Input Image	Output Diagnosis<br>
+Chest X-ray	✅ Tuberculosis Detected<br>
+Brain MRI	⚠️ Possible Tumor Region<br>
+Skin Lesion	✅ Likely Benign (Melanoma)<br>
+Blood Test (OCR Extracted) <br>	🔍 Elevated WBC Count<br>
 AND many more......
-
+***
 💡 Use Cases
 Rural Telemedicine & Diagnosis
 
