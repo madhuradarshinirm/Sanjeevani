@@ -98,11 +98,10 @@ Madhuradarshini : [🧷LinkedIn](http://www.linkedin.com/in/madhuradarshinirm)
 <br> Frontend Developer • OCR & Image Processing
 
 Yashashwini R:  [🧷LinkedIn](https://www.linkedin.com/in/yashaswini-r-39a127325)
-<br> AI Engineer • AI/ML Developer
-
-Armaan Samir Jena:  [🧷LinkedIn](http://www.linkedin.com/in/jena-armaan)
 <br> Backend Developer • Cloud Integrator
 
+Armaan Samir Jena:  [🧷LinkedIn](http://www.linkedin.com/in/jena-armaan)
+<br> AI Engineer • AI/ML Developer
 
 <br><br>
 📜 License
