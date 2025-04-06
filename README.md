@@ -75,7 +75,7 @@ Input Image	Output Diagnosis<br>
 Chest X-ray	✅ Tuberculosis Detected<br>
 Brain MRI	⚠️ Possible Tumor Region<br>
 Skin Lesion	✅ Likely Benign (Melanoma)<br>
-Blood Test (OCR Extracted) <br>	🔍 Elevated WBC Count<br>
+Blood Test (OCR Extracted) 🔍 Elevated WBC Count<br>
 AND many more......
 ***
 💡 Use Cases
